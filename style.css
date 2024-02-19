@@ -1,0 +1,67 @@
+html {
+    background: #e2e2e2;
+    background: rgb(41,172,163);
+    background: linear-gradient(0deg, rgba(41,172,163,1) 0%, rgba(38,127,187,1) 100%);
+    font-family: 'Nunito', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-color: #00305c;
+    border-width: 2px;
+    border-style: solid;
+    padding: 40px;
+    border-radius: 50px;
+    background-color: white;
+        
+}
+
+header {
+    background-color: white ;
+    border-radius: 50px;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    color: #00305c;
+    text-shadow: 5px 5px 5px #00305c44;
+}
+
+h2 {
+    color: #00305c;
+    text-shadow: 5px 5px 5px #00305c44;
+}
+
+h3 {
+    color: #00305c;
+    text-shadow: 5px 5px 5px #00305c44;
+}
+
+h4 {
+    color: #00305c;
+    text-shadow: 5px 5px 5px #00305c44;
+}
+
+h5 {
+    color: #00305c;
+    text-shadow: 5px 5px 5px #00305c44;
+}
+
+h6 {
+    color: #00305c;
+    text-shadow: 5px 5px 5px #00305c44;
+}
+
+a:hover {
+    color: hsl(189, 74%, 27%);
+    
+}
