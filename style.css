@@ -1,14 +1,14 @@
 html {
-    background: #e2e2e2;
-    background: rgb(41,172,163);
-    background: linear-gradient(0deg, rgba(41,172,163,1) 0%, rgba(38,127,187,1) 100%);
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    background-image: url(https://img.freepik.com/fotos-premium/fundo-desfocado-escuro-abstrato-textura-suave-gradiente-cor-brilhante-brilhante-padrao-de-site-banner-h_1258-85518.jpg);
+    background-repeat: no-repeat;
+    background-size: 350%;
 }
+
 
 body{
     width: 800px;
@@ -39,7 +39,7 @@ h1, h2, h3 {
     text-shadow: 5px 5px 5px #00305c44;
 }
 
-a:hover {
+a:hover{
     color: hsl(189, 74%, 27%);
     
 }
